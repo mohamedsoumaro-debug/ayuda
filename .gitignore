@@ -21,3 +21,6 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+# fotos de producto (pesan y son tuyas)
+video/fotos/*
+!video/fotos/.gitkeep

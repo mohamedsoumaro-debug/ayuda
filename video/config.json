@@ -1,0 +1,20 @@
+{
+  "producto": "TU PRODUCTO",
+  "gancho": "Si te pasa esto, para 3 segundos.",
+  "problema": "El problema de siempre",
+  "solucion": "Esto lo soluciona.",
+  "beneficios": [
+    "Se pone en 10 segundos",
+    "No necesitas nada más",
+    "Se nota desde el primer día"
+  ],
+  "antes": "Antes",
+  "despues": "Después",
+  "precio": "19,95 €",
+  "envio": "Envío gratis · 30 días de prueba",
+  "tienda": "tutienda.com",
+  "cta": "Link en la bio",
+  "color_fondo": "#0D0D10",
+  "color_acento": "#FF4D2E",
+  "color_texto": "#FFFFFF"
+}
